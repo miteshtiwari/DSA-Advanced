@@ -1,1 +1,0 @@
-Take One variable maxi Store first value of array in it and compare that value with everyother element from the array . If there is any value which is greater from maxi value update the maxi value to that number
